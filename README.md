@@ -1,6 +1,6 @@
 ### Hi, I'm Leila 👋
 
-I am a Front End Developer with a deep passion for technology and communication. My journey into the world of coding began in April 2023 when I immersed myself in an intensive full-time bootcamp for Web Development. Since then, I have been on a continuous learning journey to enhance my skills.
+I am a Front End Developer with a deep passion for technology and communication. My journey into the world of coding began in May 2023 when I immersed myself in an intensive full-time bootcamp for Web Development. Since then, I have been on a continuous learning journey to enhance my skills.
 
 Currently, I am dedicated to mastering React, and I aspire to specialize in this technology. My ultimate aim is to excel in web responsiveness and UI/UX design, with the goal of creating user-friendly and visually appealing digital experiences.
 
